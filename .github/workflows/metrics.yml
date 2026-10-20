@@ -11,7 +11,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      # metrics.svg는 main에 커밋한다 (output 브랜치는 snake 워크플로가 매번 덮어씀)
       - name: Generate metrics SVG
         uses: lowlighter/metrics@latest
         with:

@@ -110,11 +110,5 @@ x, y 데이터만 보고 원래 수식을 찾아내는 Genetic Programming 구�
 <div align="center">
   <img src="https://raw.githubusercontent.com/SeungeunMoon/SeungeunMoon/main/metrics.svg" alt="GitHub metrics" />
   <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeungeunMoon/SeungeunMoon/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeungeunMoon/SeungeunMoon/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SeungeunMoon/SeungeunMoon/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br><br>
   <a href="https://solved.ac/neptun"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=neptun" /></a>
 </div>
