@@ -1,6 +1,6 @@
 <div align="center">
   <h2>안녕하세요, 문승은입니다 👋</h2>
-  <p><b>백엔드부터 AI 파이프라인까지, 서비스가 실제로 굴러가게 만드는 개발자</b></p>
+  <p><b>끊임없이 더 나은 방향을 탐구하며, 서비스의 실질적인 가치를 증명하 개발자입니다.</b></p>
   <p>Backend · AI Pipeline · Data Analysis</p>
   <a href="mailto:harin0375@gmail.com"><img src="https://img.shields.io/badge/Email-harin0375@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://solved.ac/neptun"><img src="https://img.shields.io/badge/solved.ac-neptun-17CE3A?style=flat-square"/></a>
